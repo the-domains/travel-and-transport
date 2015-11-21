@@ -1,0 +1,28 @@
+name: 'Travel & Transport'
+favicon: null
+layout_spectrum: 0.4309375861193985
+typography_spectrum: 0.6452881062868983
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8261786289513111
+  lightness: 0.7200730296317488
+  saturation: 0.9400529251433909
+  rhythmicContrast: 0.11540475487709045
+purpose: []
