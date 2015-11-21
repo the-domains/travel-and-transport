@@ -1,7 +1,7 @@
 name: 'Travel & Transport'
 favicon: null
-layout_spectrum: 0.4309375861193985
-typography_spectrum: 0.6452881062868983
+layout_spectrum: 0.50117
+typography_spectrum: 0.30211
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#030301'
     - '#009e95'
   brandStrength: 0.25
-  lightness: 0.7200730296317488
-  saturation: 0.9400529251433909
+  lightness: 0.8125
+  saturation: 0.3125
   rhythmicContrast: 0.11540475487709045
 purpose: []
